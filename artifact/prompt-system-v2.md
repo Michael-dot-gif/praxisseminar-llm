@@ -3,6 +3,12 @@
 Dieses Dokument enthält die direkt einsetzbaren finalen Prompts des **Prompt-Systems (v2.0)** für **NotebookLM**. Die Prompts werden sequenziell nacheinander in die Chat-Schnittstelle eingegeben.
 
 ---
+## Einordnung: Master Prompt vs. Master-Prompt-System
+
+Im Rahmen dieser Arbeit wird das entwickelte Artefakt als **sequenzielles Master-Prompt-System (Version 2.0)** eingeordnet:
+
+1. **Initiierungs- / Master Prompt (Prompt 1):** Phase 1 fungiert als zentraler steuernder Master Prompt. Er etabliert die Expertenrolle, bindet das System via Retrieval-Augmented Generation (RAG) an die geladenen Quellen und legt die theoretischen sowie methodischen Parameter des Befragungsinstruments fest.
+2. **Sequenzielles Master-Prompt-System (Prompt 1, Prompt 2, Prompt 3a, Prompt 3b und Prompt 4):** Die Umsetzung erfolgt bewusst nicht als monolithischer Einzel-Prompt, sondern als phasenbasiertes System. Diese sequenzielle Struktur ist im Rahmen dieses Artefakts methodisch begründet, insbesondere aufgrund der verankerten **Human-in-the-Loop-Gates (HITL-Gates)** und der getrennten Prüfschritte. Eine menschliche Freigabe erfolgt nach der Konstruktdefinition (HITL 1), nach der Roh-Itemgenerierung (HITL 2) sowie vor dem kognitiven Pretest (HITL 3).
 
 ## Phase 1: Quellengrundierung, Konstruktspezifikation & Skalendesign
 
