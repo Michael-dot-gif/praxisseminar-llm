@@ -1,6 +1,6 @@
 # Quellenübersicht des Projekts
 
-Dieses Dokument führt alle **19 wissenschaftlichen Primärquellen und Studien** auf, die im NotebookLM-Projekt als theoretische und methodische Grundlage für die Entwicklung des **Leitlinien- und Prompt-Systems (Version 2.0)** verwendet wurden.
+Dieses Dokument führt alle **18 wissenschaftliche Fachpublikationen und 1 Arbeitsdokument** auf, die im NotebookLM-Projekt als theoretische und methodische Grundlage für die Entwicklung des **Leitlinien- und Prompt-Systems (Version 2.0)** verwendet wurden.
 
 ---
 
