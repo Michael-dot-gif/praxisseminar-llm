@@ -18,7 +18,7 @@ Der gesamte Konzeptions-, Entwicklungs- und Evaluationsprozess des **Leitlinien-
 ## 2. Freigabelink zum NotebookLM-Projekt
 
 > **Link zum NotebookLM-Projekt:**  
-> `(https://notebook.google.com/notebook/ea38fd47-9952-4885-b66f-ebb673b3fa3e)`
+> `([https://notebook.google.com/notebook/ea38fd47-9952-4885-b66f-ebb673b3fa3e]
 
 ---
 
