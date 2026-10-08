@@ -8,7 +8,7 @@ Dieses Repository enthält die Dokumentation und das finale Prompt-System für d
 
 Ziel des Projekts ist die Konzeption, Erprobung und Evaluation eines wissenschaftlich fundierten, praxistauglichen **Leitlinien- und Prompt-Systems (Version 2.0)**. Das System unterstützt Forschende und Praktiker dabei, Befragungsinstrumente in der Arbeits- und Organisationsforschung mithilfe von Large Language Models (LLMs) zu entwickeln. 
 
-Das Artefakt verbindet etablierte psychometrische Phasenmodelle der Skalenentwicklung mit modernen Verfahren der KI-gestützten Item-Generierung (Retrieval-Augmented Generation, Multi-Agenten-Review) und sichert den Gesamtprozess durch verbindliche **Human-in-the-Loop-Gates (HITL-Gates)** ab.
+Das Artefakt verbindet etablierte psychometrische Phasenmodelle der Skalenentwicklung mit modernen Verfahren der KI-gestützten Item-Generierung (Retrieval-Augmented Generation, sequenzielles rollenbasiertes In-silico-Review) und sichert den Gesamtprozess durch verbindliche **Human-in-the-Loop-Gates (HITL-Gates)** ab.
 
 ---
 
