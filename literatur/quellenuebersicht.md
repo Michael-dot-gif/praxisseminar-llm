@@ -19,7 +19,7 @@ Diese Quellen liefern das methodische Fundament für psychometrische Gütekriter
 
 ## 2. LLM-gestützte Item- und Fragebogengenerierung
 
-Diese Studien adressieren die Nutzung von Sprachmodellen zur automatisierten Testentwicklung, die Entfaltung von Multi-Agenten-Netzwerken, qualitative Redundanzprüfungen und die Risiken automatisierter Gütebehauptungen (*In-silico Validity Illusion*).
+Diese Studien adressieren die Nutzung von Sprachmodellen zur automatisierten Testentwicklung, die Übertragung rollenbasierter Review-Konzepte (Multi-Agenten-Ansätze) auf sequenzielles Prompting, qualitative Redundanzprüfungen und die Risiken automatisierter Gütebehauptungen (*In-silico Validity Illusion*).
 
 * **Lee et al. (2025) – *AI-powered Automatic Item Generation***
   * *Funktion im Projekt:* Methodische Vorlage für rollenbasierte Review-Systeme (Multi-Agent-Framework) zur Item-Generierung sowie Bereitstellung der AAAW-Skala (*Attitudes Toward AI at Work*) zur Messung von KI-Ängsten.
