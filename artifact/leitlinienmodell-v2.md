@@ -12,15 +12,16 @@ as Leitlinienmodell verbindet etablierte phasenbasierte Frameworks der psychomet
 
 Für eine wissenschaftlich korrekte Anwendung unterscheidet das Modell strikt zwischen den Möglichkeiten innerhalb von NotebookLM und notwendigen externen Arbeitsschritten:
 
-Infrastruktur innerhalb von NotebookLM
+**Infrastruktur innerhalb von NotebookLM**
 • RAG-gestützte Konzeption aus Quelldokumenten (Zhang & Zhang, 2025)
 • Kontextualisierte Item-Generierung (Lee et al., 2025)
 • Ableitung von Verbal Probes für Pretests (Artino et al., 2014)
 • Heuristische In-silico-Vorselektion via sequenziellem rollenbasiertem Prompting (in Anlehnung an Lee et al., 2025; Stanton et al., 2026)
-Externe Arbeitsschritte & Systeme
+**Externe Arbeitsschritte & Systeme**
 • Mathematisch-statistische Berechnungen (EGA, UVA, CFA, IRT-Analysen, PLS-SEM) via R/Python
 • Empirische Feld-Datenerhebungen an echten Probanden-Stichproben
-• Kognitive Pretest-Interviews (Think-Aloud) mit Personen der Zielgruppe (Artino et al., 2014)                  
+• Kognitive Pretest-Interviews (Think-Aloud) mit Personen der Zielgruppe (Artino et al., 2014)      
+
 ---
 
 ## 2. Der 4-Phasen-Workflow
