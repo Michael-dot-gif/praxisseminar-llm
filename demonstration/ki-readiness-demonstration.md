@@ -43,12 +43,12 @@ Zur Erstellung eines kompakten, praxistauglichen Fragebogens (Bearbeitungszeit c
 ### Phase 1: Quellengrundierung & Skalendesign
 * **Aktion:** Generierung der theoretischen Konstruktspezifikation und Erfassung von Quellenlücken.
 * **Ergebnis:** Identifikation der vier Ziel-Dimensionen. Festhalten der Quellenlücke, dass objektive KI-Leistungstests (z. B. rechnerische Prüfung von Halluzinationen) in den Selbsteinschätzungs-Quellen nicht existieren.
-* **🛑 HITL-Gate 1:** Forschender gibt Konstruktdefinition, Ausklammerung abstrakter Governance-Themen und die 5-stufige Skalenkonfiguration frei.
+* **HITL-Gate 1:** Forschender gibt Konstruktdefinition, Ausklammerung abstrakter Governance-Themen und die 5-stufige Skalenkonfiguration frei.
 
 ### Phase 2: Überpoolte Item-Generierung & Herkunftstaxonomie
 * **Aktion:** Erzeugung eines überpoolten Roh-Itempools von **27 Items** (ca. 2- bis 3-fache Menge der Zielanzahl).
 * **Ergebnis:** Zuordnung der Items zu den vier Herkunftskategorien und Identifikation von Bedarfen für N/A-Optionen und Filterfragen.
-* **🛑 HITL-Gate 2:** Forschender sichtet den Roh-Itempool auf Tonalität und Anwendbarkeit.
+* **HITL-Gate 2:** Forschender sichtet den Roh-Itempool auf Tonalität und Anwendbarkeit.
 
 ### Phase 3: Zweistufige Heuristische LLM-Prüfung (In-silico-Screening)
 * **Phase 3a (Inhaltlicher Review / Construct Alignment):** Identifikation und Entfernung von *Construct Crossovers*. Beispielsweise wurde Roh-Item 3.2 (*„Ich glaube, dass KI die Ziele einer Aufgabe verstehen kann“*) gestrichen, da es die wahrgenommene Systemintelligenz/Anthropomorphismus misst und nicht die Kollaborationsbereitschaft des Mitarbeitenden.
@@ -56,7 +56,7 @@ Zur Erstellung eines kompakten, praxistauglichen Fragebogens (Bearbeitungszeit c
 
 ### Phase 4: Finales HITL-Gatekeeping & Pretest-Leitfaden
 * **Aktion:** Zusammenstellung der finalen 15-Item-Matrix, Erstellung gezielter *Verbal Probing* Fragen für kognitive Interviews und Ausweisung des methodischen Disclaimers.
-* **🛑 HITL-Gate 3 (Final):** Menschliche Endfreigabe der Pretest-Unterlagen.
+* **HITL-Gate 3 (Final):** Menschliche Endfreigabe der Pretest-Unterlagen.
 
 ---
 
