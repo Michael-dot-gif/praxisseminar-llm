@@ -88,7 +88,20 @@ Der erneute Test von Version 2.0 am KI-Readiness-Fragebogen bestätigte den meth
 
 ## 7. Gegenüberstellung: Version 1 vs. Version 2
 
-┌─────────────────────────────────────────┬─────────────────────────────────────────┐ │           Version 1 (Prototyp)          │      Version 2.0 (Finales Artefakt)     │ ├─────────────────────────────────────────┼─────────────────────────────────────────┤ │ • Illusion automatisierter Validität.   │ • Strikte methodische Entkopplung.      │ │ • Unklare Herkunft von Übersetzungen.   │ • Transparente 4-stufige Taxonomie.     │ │ • Einziger Kontrollpunkt am Prozessende.│ • Drei verankerte HITL-Gates.           │ │ • Starre Vorgaben für Skala & Überpool. │ • Konfigurations-Empfehlung in Phase 1. │ │ • Überforderter Review-Prompt.          │ • Zweistufiges Screening (3a/3b).       │ │ • Fehlende Beachtung von N/A-Bedarfen.  │ • Erfassung von Filterfragen & N/A.     │ └─────────────────────────────────────────┴─────────────────────────────────────────┘
+**Version 1 (Prototyp)**
+• Illusion automatisierter Validität
+• Unklare Herkunft von Übersetzungen
+• Einziger Kontrollpunkt am Prozessende
+• Starre Vorgaben für Skala & Überpool
+• Überforderter Review-Prompt
+• Fehlende Beachtung von N/A-Bedarfen
+**Version 2.0 (Finales Artefakt)**
+• Strikte methodische Entkopplung
+• Transparente 4-stufige Taxonomie
+• Drei verankerte HITL-Gates
+• Konfigurations-Empfehlung in Phase 1
+• Zweistufiges Screening (3a/3b)
+• Erfassung von Filterfragen & N/A
 
 ---
 
