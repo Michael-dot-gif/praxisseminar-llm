@@ -26,7 +26,7 @@ Aufgabe:
    - Empfohlene Antwortskala (z. B. 5-stufig unipolar bei Intensitäten/Häufigkeiten vs. 7-stufig bipolar bei differenzierten Einstellungen) inklusive Vorschlag für die verbalen Anker.
 
 Wichtig: Nutze ausschließlich die hochgeladenen Quellen. Erfinde keine theoretischen Hintergründe aus deinem Trainingswissen.
-🛑 HUMAN-IN-THE-LOOP (HITL-Gate 1): Der Forschende prüft die Konstruktdefinition, die identifizierten Quellenlücken und die Konfigurationsempfehlung. Erst nach manueller Freigabe oder Anpassung wird Phase 2 gestartet.
+HUMAN-IN-THE-LOOP (HITL-Gate 1): Der Forschende prüft die Konstruktdefinition, die identifizierten Quellenlücken und die Konfigurationsempfehlung. Erst nach manueller Freigabe oder Anpassung wird Phase 2 gestartet.
 Phase 2: Kontextualisierte Item-Generierung & Herkunftstaxonomie
 Auf Basis der freigegebenen Konstruktdefinition und Konfiguration aus Phase 1 starten wir nun Phase 2: Die Item-Generierung.
 
@@ -48,7 +48,7 @@ Strikte Herkunftstaxonomie (Ordne JEDES Item genau EINER dieser 4 Kategorien zu)
 - [In-silico neu konstruiert]: Auf Basis der theoretischen Konstruktdefinition vollständig neu erzeugt.
 
 Gib die Items nummeriert, sortiert nach Subdimensionen und inklusive der zugehörigen Quelle aus.
-🛑 HUMAN-IN-THE-LOOP (HITL-Gate 2): Der Forschende sichtet den Roh-Itempool auf Tonalität, Passung zur Zielgruppe und Vollständigkeit. Erst nach Freigabe startet die zweistufige LLM-Filterung.
+HUMAN-IN-THE-LOOP (HITL-Gate 2): Der Forschende sichtet den Roh-Itempool auf Tonalität, Passung zur Zielgruppe und Vollständigkeit. Erst nach Freigabe startet die zweistufige LLM-Filterung.
 Phase 3: Zweistufige Heuristische LLM-Prüfung (In-silico-Screening)
 Prompt 3a: Inhaltlicher Review (Construct Alignment & Crossover-Check)
 Führe Phase 3a der Item-Prüfung durch. Der Fokus liegt ausschließlich auf der INHALTLICHEN PASSUNG (Construct Alignment).
@@ -84,4 +84,4 @@ Aufgabe:
 4. Schließe das Dokument zwingend mit folgendem methodischen Disclaimer ab:
 
 "Methodischer Disclaimer: Dieses Instrument stellt das Ergebnis einer strukturierten, LLM-gestützten In-silico-Vorselektion dar. Aus den heuristischen Prüfschritten dieses Sprachmodells lässt sich keinerlei empirische Validität (wie faktorielle Struktur, Reliabilität, Diskriminanzvalidität oder Bias-Freiheit) drive/ableiten. Vor einem wissenschaftlichen oder praktischen Einsatz muss das Instrument zwingend kognitiv pretestiert (Response Process Validity) und an einer realen Feldstichprobe statistisch evaluiert werden."
-🛑 HUMAN-IN-THE-LOOP (HITL-Gate 3 / Final): Der Forschende unterzieht die Ergebnismatrix einer abschließenden inhaltlichen Prüfung, gibt den Pretest-Leitfaden frei und leitet die empirische Feldüberprüfung ein.
+HUMAN-IN-THE-LOOP (HITL-Gate 3 / Final): Der Forschende unterzieht die Ergebnismatrix einer abschließenden inhaltlichen Prüfung, gibt den Pretest-Leitfaden frei und leitet die empirische Feldüberprüfung ein.
