@@ -43,16 +43,16 @@ Jedes generierte Item wird lückenlos genau einer von vier Herkunftskategorien z
 
 Der Workflow gliedert sich in vier sequenzielle Phasen, die durch drei verbindliche menschliche Freigabepunkte (HITL-Gates) geschützt sind:
 
-[Phase 1: Grounding & Skalendesign] ──► 🛑 HITL-Gate 1: Freigabe Theorie & Skalendesign │ [Phase 2: Überpoolung & Taxonomie]  ──► 🛑 HITL-Gate 2: Sichtung & Freigabe Roh-Itempool │ [Phase 3a: Inhaltlicher Review]     ──► [Phase 3b: Sprachlich-Methodischer Review] │ [Phase 4: Ergebnismatrix & Pretest] ──► 🛑 HITL-Gate 3 (Final): Freigabe des Pretest-Sets
+[Phase 1: Grounding & Skalendesign] ──► HITL-Gate 1: Freigabe Theorie & Skalendesign │ [Phase 2: Überpoolung & Taxonomie]  ──► HITL-Gate 2: Sichtung & Freigabe Roh-Itempool │ [Phase 3a: Inhaltlicher Review]     ──► [Phase 3b: Sprachlich-Methodischer Review] │ [Phase 4: Ergebnismatrix & Pretest] ──► HITL-Gate 3 (Final): Freigabe des Pretest-Sets
 
 1. **Phase 1: Quellengrundierung & Skalendesign:** Extraktion der theoretischen Konstruktdefinition, Erfassung von Quellenlücken und Begründung von Überpoolungsfaktor und Antwortskala.
-   * 🛑 **HITL-Gate 1:** Menschliche Freigabe der Theoriebasis, Quellenlücken und des Skalendesigns.
+**HITL-Gate 1:** Menschliche Freigabe der Theoriebasis, Quellenlücken und des Skalendesigns.
 2. **Phase 2: Überpoolte Item-Generierung & Taxonomie:** Generierung der mehrfachen Itemmenge (z. B. 2x–4x Überpoolung), Zuweisung der 4-stufigen Herkunftstaxonomie und Prüfung auf N/A-Optionen/Filterfragen.
-   * 🛑 **HITL-Gate 2:** Menschliche Sichtung des Roh-Itempools auf Tonalität, Passung und Vollständigkeit.
+**HITL-Gate 2:** Menschliche Sichtung des Roh-Itempools auf Tonalität, Passung und Vollständigkeit.
 3. **Phase 3a: Inhaltlicher Review (*Construct Alignment*):** Heuristische Prüfung der inhaltlichen Passung und Ausschluss von *Construct Crossovers*.
 4. **Phase 3b: Sprachlich-Methodischer Review & Redundanz:** Optimierung von Sprache/Satzbau und qualitative Redundanzfilterung zur Auswahl der Zielitems.
 5. **Phase 4: Ergebnismatrix & Pretest-Leitfaden:** Zusammenstellung der finalen Matrix und Ableitung gezielter *Verbal Probes* für kognitive Interviews (*Think-Aloud*).
-   * 🛑 **HITL-Gate 3 (Final):** Menschliche Freigabe des Pretest-Sets und Überführung in die empirische Feldprüfung.
+**HITL-Gate 3 (Final):** Menschliche Freigabe des Pretest-Sets und Überführung in die empirische Feldprüfung.
 
 ---
 
