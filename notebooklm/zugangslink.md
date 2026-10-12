@@ -21,9 +21,3 @@ Der gesamte Konzeptions-, Entwicklungs- und Evaluationsprozess des **Leitlinien-
 > `([https://notebook.google.com/notebook/ea38fd47-9952-4885-b66f-ebb673b3fa3e]
 
 ---
-
-## 3. Hinweise zur Einsichtnahme
-
-1. Rufen Sie den obenstehenden Link im Browser auf, um das schreibgeschützte oder freigegebene NotebookLM-Projekt zu öffnen.
-2. Im linken Bereich (**Quellen**) können die 19 verwendeten Literaturquellen direkt eingesehen werden.
-3. Im mittleren Bereich (**Chat**) lässt sich die Ausführung des 4-Phasen-Workflows schrittweise nachvollziehen oder für eigene Testläufe nutzen.
