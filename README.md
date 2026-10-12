@@ -86,8 +86,15 @@ Die vergleichende Evaluation zeigte wesentliche methodische Fortschritte von V1 
 ## 7. Methodische Abgrenzung des Artefakts
 
 Das Artefakt leistet eine hochwertige **In-silico-Vorselektion und Pretest-Vorbereitung**. Folgende Grenzen sind methodisch zu beachten:
-
-┌─────────────────────────────────────────────────┬─────────────────────────────────────────────────┐ │     Infrastruktur innerhalb von NotebookLM      │      Externe Arbeitsschritte & Systeme          │ ├─────────────────────────────────────────────────┼─────────────────────────────────────────────────┤ │ • RAG-gestützte Konzeption aus Quelldokumenten  │ • Mathematisch-statistische Berechnungen         │ │   (Zhang & Zhang, 2025).                        │   (EGA, UVA, CFA, IRT-Analysen, PLS-SEM)        │ │ • Kontextualisierte Item-Generierung            │   via R/Python.                                 │ │   (Lee et al., 2025).                           │ • Empirische Feld-Datenerhebungen an echten     │ │ • Heuristische In-silico-Vorselektion           │   Probanden-Stichproben.                        │ │   (Lee et al., 2025; Stanton, 2026).            │ • Kognitive Pretest-Interviews (Think-Aloud)    │ │ • Ableitung von Verbal Probes für Pretests      │   mit Personen der Zielgruppe                   │ │   (Artino et al., 2014).                        │   (Artino et al., 2014).                        │ └─────────────────────────────────────────────────┴─────────────────────────────────────────────────┘
+**Infrastruktur innerhalb von NotebookLM**
+• RAG-gestützte Konzeption aus Quelldokumenten (Zhang & Zhang, 2025)
+• Kontextualisierte Item-Generierung (Lee et al., 2025)
+• Heuristische In-silico-Vorselektion via sequenziellem rollenbasiertem Prompting (in Anlehnung an Lee et al., 2025; Stanton et al., 2026)
+• Ableitung von Verbal Probes für Pretests (Artino et al., 2014)
+**Externe Arbeitsschritte & Systeme**
+• Mathematisch-statistische Berechnungen (EGA, UVA, CFA, IRT-Analysen, PLS-SEM) via R/Python
+• Empirische Feld-Datenerhebungen an echten Probanden-Stichproben
+• Kognitive Pretest-Interviews (Think-Aloud) mit Personen der Zielgruppe (Artino et al., 2014)
 
 * **Keine empirische Parameterbestimmung:** Faktorladungen, Kriteriumsvalidität, Diskriminanzvalidität (HTMT) und Reliabilitäten (Cronbachs Alpha) können nicht durch Sprachmodelle simuliert werden, sondern erfordern echte Probandendaten.
 * **Keine starren Stichprobenschwellen:** In der Fachliteratur existieren keine universellen Mindeststichproben. Die erforderliche Stichprobengröße richtet sich nach Faktoren wie Kommunalitäten, Modellkomplexität und dem gewählten Schätzverfahren (EFA, CFA, PLS-SEM).
