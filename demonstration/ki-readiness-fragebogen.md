@@ -46,11 +46,40 @@ Das Instrument deckt vier priorisierte Subdimensionen der individuellen KI-Readi
 
 ## 4. Herleitung: Theorie → Konstrukt → Item
 
-HERLEITUNGS-MATRIX                                          
-Selbstwirksamkeit & Kognition ├── AIRS (SEC2; Wang et al., 2026)             ──► Verständnis der Funktionsweise ──► Item 1.1 ├── AIRS (SEC3; Wang et al., 2026)             ──► Effektive Nutzung der Funktionen──► Item 1.2 ├── MAIRS-MS (Ability 1; Karaca et al., 2021) ──► Synthese mit Fachwissen        ──► Item 1.3 └── Explainability/Control (Lee et al., 2025) ──► Kritische Ergebniskontrolle    ──► Item 1.4
-Optimismus & Comfort ├── AIRS (OPT2; Wang et al., 2026)             ──► Arbeitseffizienz             ──► Item 2.1 ├── AIRS (COM1; Wang et al., 2026)             ──► Abwesenheit von Scham/Angst  ──► Item 2.2 ├── AIRS (SEC4/COM; Wang et al., 2026)        ──► Abwesenheit von Lernangst    ──► Item 2.3 └── TRI Optimism (Parasuraman, 2000)           ──► Zukünftige Vereinfachung     ──► Item 2.4
-Mensch-KI-Kollaboration & Aufgabenpassung ├── Task-Technology Fit (Goodhue & Thompson)   ──► Funktionale Aufgabenpassung  ──► Item 3.1 ├── TTF / Performance (Datensatz_v1)           ──► Unterstützung bei Komplexität ──► Item 3.2 ├── AIRS (CLW1; Wang et al., 2026)             ──► Partnerartige Unterstützung  ──► Item 3.3 └── Automation/Delegation (Jöhnk et al., 2021)  ──► Abgabe von Routineaufgaben   ──► Item 3.4
-Wahrgenommenes organisationales Enablement ├── HR Development (Tomaževič et al., 2026)     ──► Schulungsangebot             ──► Item 4.1 ├── HR Planning (Tomaževič et al., 2026)        ──► Zeit & Ressourcen            ──► Item 4.2 └── Ethical Governance (Jöhnk et al., 2021)    ──► Klare Leitlinien & Regeln    ──► Item 4.3
+### Dimension 1: Selbstwirksamkeit & Kognition
+
+| Wissenschaftliche Grundlage | Inhaltlicher Indikator | Item-ID |
+| :--- | :--- | :--- |
+| AIRS (SEC2; Wang et al., 2026) | Verständnis der Funktionsweise | 1.1 |
+| AIRS (SEC3; Wang et al., 2026) | Effektive Nutzung der Funktionen | 1.2 |
+| MAIRS-MS (Ability 1; Karaca et al., 2021) | Synthese mit Fachwissen | 1.3 |
+| Explainability/Control (Lee et al., 2025) | Kritische Ergebniskontrolle | 1.4 |
+
+### Dimension 2: Optimismus & Comfort
+
+| Wissenschaftliche Grundlage | Inhaltlicher Indikator | Item-ID |
+| :--- | :--- | :--- |
+| AIRS (OPT2; Wang et al., 2026) | Arbeitseffizienz | 2.1 |
+| AIRS (COM1; Wang et al., 2026) | Abwesenheit von Scham/Angst | 2.2 |
+| AIRS (SEC4/COM; Wang et al., 2026) | Abwesenheit von Lernangst | 2.3 |
+| TRI Optimism (Parasuraman, 2000) | Zukünftige Vereinfachung | 2.4 |
+
+### Dimension 3: Mensch-KI-Kollaboration & Aufgabenpassung
+
+| Wissenschaftliche Grundlage | Inhaltlicher Indikator | Item-ID |
+| :--- | :--- | :--- |
+| Task-Technology Fit (Goodhue & Thompson, 1995) | Funktionale Aufgabenpassung | 3.1 |
+| TTF / Performance (Datensatz_v1) | Unterstützung bei Komplexität | 3.2 |
+| AIRS (CLW1; Wang et al., 2026) | Partnerartige Unterstützung | 3.3 |
+| Automation / Delegation (Jöhnk et al., 2021) | Abgabe von Routineaufgaben | 3.4 |
+
+### Dimension 4: Wahrgenommenes organisationales Enablement
+
+| Wissenschaftliche Grundlage | Inhaltlicher Indikator | Item-ID |
+| :--- | :--- | :--- |
+| HR Development (Tomaževič et al., 2026) | Schulungsangebot | 4.1 |
+| HR Planning (Tomaževič et al., 2026) | Zeit & Ressourcen | 4.2 |
+| Ethical Governance (Jöhnk et al., 2021) | Klare Leitlinien & Regeln | 4.3 |
 
 ---
 
