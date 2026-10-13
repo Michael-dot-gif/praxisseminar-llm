@@ -6,7 +6,7 @@ Dieses Dokument beschreibt das methodische Leitlinienmodell zur wissenschaftlich
 
 ## 1. Systemüberblick & Methodische Abgrenzung
 
-as Leitlinienmodell verbindet etablierte phasenbasierte Frameworks der psychometrischen Skalenentwicklung mit modernen Verfahren der KI-gestützten Item-Generierung (Retrieval-Augmented Generation, sequenzielles rollenbasiertes In-silico-Review) und sichert den Gesamtprozess durch verbindliche **Human-in-the-Loop-Gates (HITL-Gates)** ab.
+Das Leitlinienmodell verbindet etablierte phasenbasierte Frameworks der psychometrischen Skalenentwicklung mit modernen Verfahren der KI-gestützten Item-Generierung (Retrieval-Augmented Generation, sequenzielles rollenbasiertes In-silico-Review) und sichert den Gesamtprozess durch verbindliche **Human-in-the-Loop-Gates (HITL-Gates)** ab.
 
 ### Abgrenzung: NotebookLM-Scope vs. Externe Systeme
 
