@@ -25,7 +25,13 @@ Für eine wissenschaftlich korrekte Anwendung unterscheidet das System strikt zw
 
 Der Entwicklungsprozess verläuft in vier sequenziellen Phasen, die durch drei verbindliche menschliche Freigabepunkte geschützt sind:
 
-[Phase 1: Grounding & Konfiguration] ──► HITL-Gate 1: Freigabe Theorie & Skalendesign │ [Phase 2: Überpoolung & Taxonomie]   ──► HITL-Gate 2: Sichtung & Freigabe Roh-Itempool │ [Phase 3a: Inhaltlicher Review]      ──► [Phase 3b: Sprachlich-Methodischer Review] │ [Phase 4: Ergebnismatrix & Pretest]  ──► HITL-Gate 3 (Final): Freigabe des Pretest-Sets
+| Phase | Verarbeitungsschritt | Menschlicher Kontrollpunkt (HITL-Gate) |
+| :--- | :--- | :--- |
+| **Phase 1: Quellengrundierung, Konstruktspezifikation & Skalendesign** | Extraktion der theoretischen Konstruktdefinition ausschließlich aus der geladenen Literatur, Erfassung von Quellenlücken sowie Festlegung des kontextbezogenen Skalendesigns (Überpoolungsfaktor und Antwortskala). | **HITL-Gate 1:** Freigabe von Theoriebasis, Quellenlücken & Skalendesign |
+| **Phase 2: Kontextualisierte Item-Generierung & Herkunftstaxonomie** | Erzeugung eines überpoolten Roh-Itempools unter Einhaltung formeller Item-Schreibregeln, Zuweisung einer präzisen 4-stufigen Herkunftstaxonomie und Prüfung auf N/A-Optionen oder Filterfragen. | **HITL-Gate 2:** Sichtung & Freigabe des Roh-Itempools |
+| **Phase 3a: Inhaltlicher Review (*Construct Alignment*)** | Prüfung des *Construct Alignment* und Ausschluss von *Construct Crossovers*. | — |
+| **Phase 3b: Sprachlich-Methodischer Review & Redundanz** | Optimierung von Sprache/Satzbau und qualitative Redundanzfilterung. | — |
+| **Phase 4: Finales HITL-Gatekeeping & Pretest-Leitfaden** | Zusammenstellung der finalen Ergebnismatrix und Vorbereitung empirischer kognitiver Interviews (*Think-Aloud* & *Verbal Probing*) zur Prüfung der Antwortprozess-Validität (*Response Process Validity*). | **HITL-Gate 3 (Final):** Freigabe des Pretest-Sets |
 
 ### Phase 1: Quellengrundierung, Konstruktspezifikation & Skalendesign
 Extraktion der theoretischen Konstruktdefinition ausschließlich aus der geladenen Literatur, Erfassung von Quellenlücken sowie Festlegung des kontextbezogenen Skalendesigns (Überpoolungsfaktor und Antwortskala).
