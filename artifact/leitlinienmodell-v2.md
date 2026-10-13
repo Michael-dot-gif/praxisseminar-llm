@@ -33,20 +33,6 @@ Der Entwicklungsprozess verläuft in vier sequenziellen Phasen, die durch drei v
 | **Phase 3b: Sprachlich-Methodischer Review & Redundanz** | Optimierung von Sprache/Satzbau und qualitative Redundanzfilterung. | — |
 | **Phase 4: Finales HITL-Gatekeeping & Pretest-Leitfaden** | Zusammenstellung der finalen Ergebnismatrix und Vorbereitung empirischer kognitiver Interviews (*Think-Aloud* & *Verbal Probing*) zur Prüfung der Antwortprozess-Validität (*Response Process Validity*). | **HITL-Gate 3 (Final):** Freigabe des Pretest-Sets |
 
-### Phase 1: Quellengrundierung, Konstruktspezifikation & Skalendesign
-Extraktion der theoretischen Konstruktdefinition ausschließlich aus der geladenen Literatur, Erfassung von Quellenlücken sowie Festlegung des kontextbezogenen Skalendesigns (Überpoolungsfaktor und Antwortskala).
-
-### Phase 2: Kontextualisierte Item-Generierung & Herkunftstaxonomie
-Erzeugung eines überpoolten Roh-Itempools unter Einhaltung formeller Item-Schreibregeln, Zuweisung einer präzisen 4-stufigen Herkunftstaxonomie und Prüfung auf N/A-Optionen oder Filterfragen.
-
-### Phase 3: Zweistufige Heuristische LLM-Prüfung (In-silico-Screening)
-Qualitative Vor-Filterung zur Reduktion von Mängeln und Redundanzen in zwei spezialisierten Teilschritten:
-* **Phase 3a (Inhaltlicher Review):** Prüfung des *Construct Alignment* und Ausschluss von *Construct Crossovers*.
-* **Phase 3b (Sprachlich-Methodischer Review):** Optimierung von Sprache/Satzbau und qualitative Redundanzfilterung.
-
-### Phase 4: Finales HITL-Gatekeeping & Pretest-Leitfaden
-Zusammenstellung der finalen Ergebnismatrix und Vorbereitung empirischer kognitiver Interviews (*Think-Aloud* & *Verbal Probing*) zur Prüfung der Antwortprozess-Validität (*Response Process Validity*).
-
 ---
 
 ## 3. Human-in-the-Loop-Gates (HITL-Gates)
