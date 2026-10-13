@@ -142,7 +142,7 @@ Zur Erstellung eines kompakten, praxistauglichen Fragebogens (Bearbeitungszeit c
 
 ## 8. Vorbereitung der kognitiven Pretests (Verbal Probing)
 
-Zur Überprüfung der **Antwortprozess-Validität** (*Response Process Validity; Artino et al., 2014*) in anschließenden kognitiven Interviews (*Think-Aloud*, \\(n = 5\text{--}15\\)) wurden spezifische Testfragen und Beobachtungshinweise abgeleitet:
+Zur Vorbereitung künftiger kognitiver Interviews (Think-Aloud) mit einer empfohlenen Stichprobengröße von 5 bis 15 Personen (Boateng et al., 2018; vgl. auch Artino et al., 2014) wurden spezifische Testfragen und Beobachtungshinweise abgeleitet, um die Antwortprozess-Validität (Response Process Validity) zu überprüfen und sicherzustellen, dass Befragte die Items exakt im Sinne der Entwicklungskonzeption interpretieren.
 
 * **Item 1.1 (*Vertrauen zu verstehen*):** 
   * *Verbal Probe:* „Was bedeutet für Sie in diesem Satz 'verstehen, wie KI funktioniert' – denken Sie dabei an die mathematische Programmierung oder an die praktische Funktionsweise im Büro?“
